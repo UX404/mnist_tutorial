@@ -25,6 +25,7 @@ Please read [HEAR](EE369.md).
 
 # Assignment Answers
 * Using pytorch models
+
 |    |  Train Accuracy  |  Test Accuracy  |
 |  ----  |  ----  |  ----  |
 |  Q1  |  97.58%  |  87.80%  |
