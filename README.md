@@ -22,3 +22,13 @@ Code tested on following environments, other version should also work:
 
 # For students from SJTU
 Please read [HEAR](EE369.md).
+
+# Assignment Answers
+* Using pytorch models
+|    |  Train Accuracy  |  Test Accuracy  |
+|  ----  |  ----  |  ----  |
+|  Q1  |  97.58%  |  87.80%  |
+|  Q2  |  81.72%  |  80.70%  |
+|  Q3  |  97.90%  |  86.20%  |
+|  Q4  |  92.75%  |  89.20%  |
+|  Q5  |  99.03%  |  98.47%  |
